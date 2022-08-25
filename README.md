@@ -1,4 +1,5 @@
-# minishell - done in collab with [tbrebion](https://github.com/tbrebion)
+# minishell - done in collab with [tbrebion](https://github.com/tbrebion) [![flcarval's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1lmiew3000609l599o75f45/project/2595455)](https://github.com/JaeSeoKim/badge42)
+
 
 This project is from 42 school commom core. Its aim was to create a posix bash like shell.
 
